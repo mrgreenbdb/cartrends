@@ -1,14 +1,18 @@
-siteTitle = 'Đà Lạt Yêu Thương'
-siteDescr = 'Địa điểm du lịch + Ăn uống Đà Lạt'
-siteDescription = "Du lịch Đà Lạt"
-siteUrl = "http://monngonmoila.com"
-siteBandcampUrl = 'http://monngonmoila.com'
+siteTitle = 'VND Game'
+siteDescr = 'Giải Trí Trong Nhà'
+siteDescription = "Tôi Phạm Xuân Tiếp, tổng hợp những món đồ mà mình cần trong cuộc sống và công việc để khi đủ tiền thì rinh món đồ đó về nhà"
+siteUrl = "https://vndgame.site"
+siteBandcampUrl = 'https://vndgame.site'
+siteMenuOne = 'Nên mua'
+siteMenuTwo = 'Đã có'
+siteMenuThree = 'Quan tâm'
+
 siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
-siteFacebookUrl = 'https://www.facebook.com/M%C3%B3n-Ngon-B%C3%ACnh-D%C6%B0%C6%A1ng-185286918690182/'
+siteFacebookUrl = 'https://www.facebook.com/OdayakaPhuQuoc'
 siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
-siteTwitterUrl = 'https://twitter.com/nihon_ne'
+siteTwitterUrl = 'https://twitter.com/OdayakaPhuQuoc'
 siteGoogleplusUrl = ''
-siteGithubUrl = 'https://github.com/mrgreenbdb'
+siteGithubUrl = 'https://github.com'
 siteYoutubeUrl = 'https://www.youtube.com/channel/UC2xhVmkOYPKibhJm3f0f3hw'
 
 linkPrefix = '/'
