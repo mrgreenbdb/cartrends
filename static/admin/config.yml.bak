@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: thaoam/bakadono
+  repo: thaoam/loinguoixua
   branch: master 
 
 publish_mode: editorial_workflow
